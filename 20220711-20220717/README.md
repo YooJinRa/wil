@@ -5,14 +5,15 @@
 
 #### 💻 KEYWORDS :: `JWT` | `API` | `TIL` | `WIL` | `Git_Github` | `Javascript` | `CSS` | `AJAX` | `Algorithm`
 #### 💻 EVALUATION :: 
-> 부족한 점을 스스로 느끼고, 채우려고 노력하고, 팀원들과 함께하려고 노력한 나를 칭찬한다.
+- 부족한 점을 스스로 느끼고, 채우려고 노력하고, 팀원들과 함께하려고 노력한 나를 칭찬한다.
 
-----
+-----
+
 ## 1. Project :::: Water Festival
 
 - 2022.07.11 ~ 2022.07.14 18:00
-- [Water Festival 시연 영상]("https://youtu.be/tOtJSyLHPxk")
-- [HOMEPAGE]("http://sparta-rio.shop/")
+- [Water Festival 시연 영상](https://youtu.be/tOtJSyLHPxk)
+- [HOMEPAGE](http://sparta-rio.shop/)
 - `HTML` | `CSS` | `jQuery` | `Python Flask` | `MongoDB`
 
 #### 기술 구현
@@ -62,7 +63,7 @@
 - console.log()를 찍으면서 해결법 찾기
 - 30분이상 풀리지 않으면, 다른 사람이 풀이한 내용 참고해서 이해하기
 - 문제에서 나온 자바스크립트 개념을 이해하고 정리하기
-> [자바스크립트 정리한 내용 확인하러 가기]("https://github.com/YooJinRa/til/tree/main/Javascript")
+> [자바스크립트 정리한 내용 확인하러 가기](https://github.com/YooJinRa/til/tree/main/Javascript)
 
 -----
 

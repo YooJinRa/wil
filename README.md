@@ -8,8 +8,10 @@
 -----
 
 ## INDEX
-- [2022.07.11 - 2022.07.17]("https://github.com/YooJinRa/wil/tree/main/20220711-20220717")
-> 💻 KEYWORDS :: `JWT` | `API` | `TIL` | `WIL` | `Git_Github` | `Javascript` | `CSS` | `AJAX` | `Algorithm`
+
+- [2022.07.11-2022.07.17](https://github.com/YooJinRa/wil/tree/main/20220711-20220717)
+> 💻 KEYWORDS ::  `JWT`  |  `API`  |  `TIL`  |  `WIL`  |  `Git_Github`  |  `Javascript`  | `CSS`  |  `AJAX`  |  `Algorithm`
 
 -----
-- [TIL]("https://github.com/YooJinRa/til")
+
+- [TIL](https://github.com/YooJinRa/til)
