@@ -19,9 +19,7 @@
 - 즐겁게 개발 공부를 한 나를 칭찬한다.
 
 #### 💻 MISSION ::
-- State : [미션 결과 확인하러 가기](https://github.com/YooJinRa/til/tree/main/ReactJS/State.md)
-- Props : [미션 결과 확인하러 가기](https://github.com/YooJinRa/til/tree/main/ReactJS/Props.md)
-- Rerendering 발생조건 : [미션 결과 확인하러 가기](https://github.com/YooJinRa/til/tree/main/ReactJS/Rerendering.md)
+- State, Props, Rerendering 발생조건 : [미션 결과 확인하러 가기](https://github.com/YooJinRa/til/tree/main/ReactJS/State_Props_Rendering.md)
 
 -----
 
