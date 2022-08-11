@@ -20,6 +20,9 @@
 - [2022.07.15-2022.07.31](https://github.com/YooJinRa/wil/tree/main/20220725-20220731) <br />
 💻 KEYWORDS ::  `React JS : useEffect, useMemo, useRef` | `Redux` | `Router` | `Styled-components` | `브라우저 작동원리` | `Github Pages`
 
+- [2022.08.01-2022.08.07](https://github.com/YooJinRa/wil/tree/main/20220801-20220807) <br />
+- [2022.08.08-2022.08.11](https://github.com/YooJinRa/wil/tree/main/20220808-20220811) <br />
+
 -----
 
 ## TIL :: Today I Learned
