@@ -1,5 +1,5 @@
-# WIL :::: 항해99 8기 5주차를 완료하며 🔥 
-## 2022.08.08 - 2022.08.11
+# WIL :::: 항해99 8기 5주차를 완료하며, 6주차를 시작하며 🔥 
+## 2022.08.08 - 2022.08.14
 #### **_시간이 없다._**
 #### **_리액트를 정말 잘하고 싶다._**
 #### **_개념을 이해한다는 것은 용어를 정확히 이해하고 설명할 수 있다는 것이다._**
@@ -10,7 +10,7 @@
 * 📌 [TDZ](https://github.com/YooJinRa/til/blob/main/Javascript/TDZ.md)
 * 📌 [Promise](https://github.com/YooJinRa/til/tree/main/Javascript/Promise.md)
 * 📌 [Redux Middleware : Why use?](https://github.com/YooJinRa/til/tree/main/ReactJS/ReduxMiddleware.md)
-* 📌 [Axios](https://github.com/YooJinRa/til/tree/main/ReactJS/Axios.md)
+* 📌 [Axios](https://github.com/YooJinRa/til/tree/main/Axios/README.md)
 
 
 -----
