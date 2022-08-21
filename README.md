@@ -24,6 +24,9 @@
 - [2022.08.08-2022.08.14](https://github.com/YooJinRa/wil/tree/main/20220808-20220814) <br />
 💻 KEYWORDS :: [TDZ](https://github.com/YooJinRa/til/blob/main/Javascript/TDZ.md) | [Promise](https://github.com/YooJinRa/til/tree/main/Javascript/Promise.md) | [Redux Middleware : Why use?](https://github.com/YooJinRa/til/tree/main/ReactJS/ReduxMiddleware.md) | [Axios](https://github.com/YooJinRa/til/tree/main/Axios/README.md) | [AWS S3](https://github.com/YooJinRa/til/blob/main/Cloud/AWS-S3.md)
 
+- [2022.08.12-2022.08.18](https://github.com/YooJinRa/wil/tree/main/20220812-20220818) <br />
+💻 KEYWORDS :: `ImageResizing` | `ImageUpload` | `PostCRUD` | `Masorny` 
+
 -----
 
 ## TIL :: Today I Learned
