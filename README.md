@@ -27,6 +27,9 @@
 - [2022.08.12-2022.08.18](https://github.com/YooJinRa/wil/tree/main/20220812-20220818) <br />
 💻 KEYWORDS :: `ImageResizing` | `ImageUpload` | `PostCRUD` | `Masorny` 
 
+- [2022.08.29-2022.09.04](https://github.com/YooJinRa/wil/tree/main/20220829-20220904) <br />
+💻 KEYWORDS :: `Image dropzone` | `Image crop` | `Tag` | `Https 설정 : SSL, S3, CloudFront` | `GitHub Actions` | `GitHub Projects`
+
 -----
 
 ## TIL :: Today I Learned
