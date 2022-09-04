@@ -47,7 +47,7 @@
   * github action으로 배포 및 기능 이상 여부 확인
   * main 브랜치 PR
 
-<img src="https://github.com/YooJinRa/wil/tree/main/20220829-20220904/images/github1.png" width="800" />
-<img src="https://github.com/YooJinRa/wil/tree/main/20220829-20220904/images/github2.png" width="800" />
-<img src="https://github.com/YooJinRa/wil/tree/main/20220829-20220904/images/github3.png" width="800" />
-<img src="https://github.com/YooJinRa/wil/tree/main/20220829-20220904/images/github4.png" width="800" />
+<img src="https://github.com/YooJinRa/wil/blob/main/20220829-20220904/images/github1.png?raw=true" width="800px" />
+<img src="https://github.com/YooJinRa/wil/blob/main/20220829-20220904/images/github2.png?raw=true" width="800px" />
+<img src="https://github.com/YooJinRa/wil/blob/main/20220829-20220904/images/github3.png?raw=true" width="800px" />
+<img src="https://github.com/YooJinRa/wil/blob/main/20220829-20220904/images/github4.png?raw=true" width="800px" />
