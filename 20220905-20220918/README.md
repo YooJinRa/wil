@@ -17,7 +17,7 @@
 - [프로젝트 ::: 라이도 GITHUB](https://github.com/project-raidho/raidho_FE/tree/dev)
 - [프로젝트 ::: 라이도 사이트](https://raidho.site/)
 - Project MVP Architecture
-  <img src="https://github.com/YooJinRa/wil/blob/main/20220829-20220904/images/Architecture_MVP.png?raw=true" width="800px" />
+  <img src="https://github.com/YooJinRa/wil/blob/main/20220905-20220918/images/Architecture_MVP.png?raw=true" width="800px" />
 
 ---
 
